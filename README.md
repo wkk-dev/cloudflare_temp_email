@@ -76,6 +76,7 @@
 - [x] 添加完整的用户注册登录功能，可绑定邮箱地址，绑定后可自动获取邮箱JWT凭证切换不同邮箱
 - [x] `Telegram Bot` 使用，以及 `Telegram` 推送
 
+
 ## Reference
 
 - Cloudflare D1 作为数据库
